@@ -1,4 +1,4 @@
-# Note💫 
+# Note  📝
 
 A flask web app where a user can take notes as well as delete notes. A user have to signup first to create a account to start note taking.
 
