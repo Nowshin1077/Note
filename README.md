@@ -1,10 +1,11 @@
-# Note💫 (Flask Web App)
+# Note💫 
 
-A web app where a user can take notes and delete notes also. A user have to signup first. 
+A flask web app where a user can take notes as well as delete notes. A user have to signup first to create a account to start note taking.
 
 ## Features and Interfaces
 1. Login page
    - Login with Email and password
+   
 2. Signup page
    - Email
    - First Name
