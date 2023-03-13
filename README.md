@@ -1,6 +1,7 @@
 # Note  📝
 
 A flask web app where a user can take notes as well as delete notes. A user have to signup first to create a account to start note taking.
+A website with Python, covering Flask, authentication, databases, and more. One can create a new user's account and can store notes in a database, a user can log into the user accounts. Notes information is associate with a specific user. 
 
 ## Features and Interfaces
 1. Login page
