@@ -1,4 +1,4 @@
-# Self Help💫 (Flask Web App)
+# Note💫 (Flask Web App)
 
 ## Requirements (Import)
 - flask
