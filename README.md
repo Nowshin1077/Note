@@ -1,6 +1,14 @@
 # Note💫 (Flask Web App)
 
-## Requirements (Import)
+## Setup & Installation
+
+Make sure you have the latest version of Python installed.
+
+```bash
+git clone <repo-url>
+```
+Requirements (Import)
+
 - flask
 `pip install flask `
 
@@ -9,13 +17,6 @@
 
 - flask-login
 `pip install Flask-Login `
-## Setup & Installation
-
-Make sure you have the latest version of Python installed.
-
-```bash
-git clone <repo-url>
-```
 
 ## Running The App
 
