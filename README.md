@@ -33,7 +33,7 @@ A flask web app where a user can take notes as well as delete notes. A user have
  ## Tech Stack
  #### Frontend
  - HTML
- - CSS
+ - CSS(bootstrap)
  - JavaScript
  
  #### Backend
