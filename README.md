@@ -5,15 +5,29 @@ A flask web app where a user can take notes as well as delete notes. A user have
 ## Features and Interfaces
 1. Login page
    - Login with Email and password
+
+<p align = "center"> 
+   <img src="https://github.com/Nowshin1077/Note/blob/main/Login.png" width="700"/>
+ </p>
    
 2. Signup page
    - Email
-   - First Name
-   - Last Name
+   - Name
    - Password
+   
+   <p align = "center"> 
+   <img src="https://github.com/Nowshin1077/Note/blob/main/Sign_up.png" width="700"/>
+ </p>
+   
+   
 3. Home
    - After successfully login user can write notes.
    - User can delete notes if want.
+
+<p align = "center"> 
+   <img src="https://github.com/Nowshin1077/Note/blob/main/Home.png" width="700"/>
+ </p>
+ 
  
  ## Tech Stack
  #### Frontend
