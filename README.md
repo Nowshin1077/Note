@@ -10,7 +10,8 @@ A flask web app where a user can take notes as well as delete notes. A user have
    <img src="https://github.com/Nowshin1077/Note/blob/main/Login.png" width="700"/>
  </p>
    
-2. Signup page
+2. Sign up page
+   Sign up with:
    - Email
    - Name
    - Password
@@ -20,7 +21,7 @@ A flask web app where a user can take notes as well as delete notes. A user have
  </p>
    
    
-3. Home
+3. Home Page
    - After successfully login user can write notes.
    - User can delete notes if want.
 
@@ -74,4 +75,5 @@ python main.py
 Go to `http://127.0.0.1:5000`
 
 ## Need Help?
-Feel Free to contact me via [Twitter](https://twitter.com/nowshin1077), [LinkedIn](https://www.linkedin.com/in/nowshin1077/)
+Feel Free to contact me via [Twitter](https://twitter.com/nowshin1077), [LinkedIn](https://www.linkedin.com/in/nowshin1077/) 
+
