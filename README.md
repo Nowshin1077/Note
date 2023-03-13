@@ -35,7 +35,7 @@ A website with Python, covering Flask, authentication, databases, and more. User
  #### Frontend
  - HTML
  - CSS(bootstrap)
- - JavaScript
+ 
  
  #### Backend
  - Python
